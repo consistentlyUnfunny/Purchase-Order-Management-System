@@ -1,0 +1,7 @@
+i001,peanut butter,condiments,12,55,sp01
+i012,Orange,fruit,12.00,8,sp02
+i008,onions,vegetable,0.80,0,sp01
+i002,jelly,snacks,18.00,49,sp01
+i003,cauliflower,vegetable,0.2,770,sp02
+i007,ice cream,dessert ,9,100,sp23
+i009,Peach,fruits,12,12,sp02

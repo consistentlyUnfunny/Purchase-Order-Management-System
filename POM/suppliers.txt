@@ -1,0 +1,6 @@
+sp02,chubacca,0111231123,death star
+sp12,bonkk,01222112211,Slums
+sp01,Phoenix,01112121212,Klang
+sp23,Giraffe,012312123,Zoo
+sp21,Juses,01231122123,Rome
+sp03,nikki,067676767,longkang

@@ -1,0 +1,5 @@
+PM0011,pass1,Product Manager,kanghao
+SM001,pass3,Sales Manager,nick chow
+AD001,pass2,Admin,shaoxiang
+AD123,pass4,Admin,Pikachu
+SM002,pass5,Sales Manager,John
